@@ -1,5 +1,5 @@
 # Portifolio v2
-My neweste portifolio aimed to show off my work, and give people an idea of the type of stuff I do.
+My newest portifolio aimed to show off my work, and give people an idea of the type of stuff I do.
 Currently my biggest project, with it containing several unique pages. These pages include:
 - Welcome Page
 - About me Page
