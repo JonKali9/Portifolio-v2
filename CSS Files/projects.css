@@ -14,7 +14,7 @@ body {
 /*UI*/
 #ui {
   z-index: 10;
-  background-color: #1a1a1abe;
+  background-color: #202020dc;
   margin-top: 40vh;
   margin-left: 40vw;
   padding: 1.5rem;
@@ -30,7 +30,6 @@ body {
 #ui button {
   margin-top: 0.8rem;
   background-color: #1a1a1a;
-  border: 3px solid #383535;
   color: #f4ead9;
   font-size: 1.5rem;
   padding: 0.7rem 1rem;
@@ -77,6 +76,7 @@ body {
   z-index: 1;
 }
 .project .title {
+  pointer-events: none;
   width: 100%;
   font-size: 3.5rem;
   margin-top: 20vh;
@@ -85,15 +85,13 @@ body {
 .live-site {
   font-size: 2.25rem;
   left: 0;
-  padding-left: 10%;
-  padding-bottom: 2%;
+  padding: 2% 10%;
   text-decoration: none;
 }
 .github-repo {
   font-size: 2.25rem;
   right: 0;
-  padding-right: 10%;
-  padding-bottom: 2%;
+  padding: 2% 10%;
   text-decoration: none;
 }
 .live-site:hover,
