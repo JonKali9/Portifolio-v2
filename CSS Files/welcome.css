@@ -32,7 +32,7 @@ body {
     font-size: 1.3rem;
     background-color: #1a1a1a;
     color: #f4ead9;
-
+    font-family: 'Antonio';
 }
 #content button:hover {
     cursor: pointer;
