@@ -83,12 +83,14 @@ body {
   text-decoration: underline;
 }
 .live-site {
+  display: none;
   font-size: 2.25rem;
   left: 0;
   padding: 2% 10%;
   text-decoration: none;
 }
 .github-repo {
+  display: none;
   font-size: 2.25rem;
   right: 0;
   padding: 2% 10%;
